@@ -1,0 +1,24 @@
+//Infinite Health
+patch=1,EE,E001453B,extended,1079597E
+patch=1,EE,20795978,extended,43480000
+
+//Infinite Magic
+patch=1,EE,20302D1C,extended,42C80000
+
+//Poseidon's Rage
+patch=1,EE,2076D7DC,extended,00002710
+
+//Medusa's Gaze
+patch=1,EE,2076D7E0,extended,00002710
+
+//Zeus' Fury
+patch=1,EE,2076D7E4,extended,00002710
+
+//Army of Hades
+patch=1,EE,2076D7E8,extended,00002710
+
+//Blade of Artemis
+patch=1,EE,2076D7EC,extended,00002710
+
+//Blades of Chaos
+patch=1,EE,2076D7F0,extended,00002710
